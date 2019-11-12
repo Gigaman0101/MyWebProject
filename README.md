@@ -5,10 +5,10 @@
 * list2
 * list3
 ## Example code
-`<javascript>
+```<javascript>
 alert(‘ok’);
-</javascript>`
+</javascript>```
 ## Credit
-[splewma2008@hotmail.com][http://google.com]
+[splewma2008@hotmail.com](http://google.com])
 ## License
 MIT License
